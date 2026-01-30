@@ -1,2 +1,2 @@
 # Hello
-repositório para tetes
+repositório para testes
